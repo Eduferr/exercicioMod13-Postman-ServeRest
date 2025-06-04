@@ -1,7 +1,6 @@
 # exercicioMod13-Postman-ServeRest
 
-Exercício Módulo 13: Testes de API
-
+Desafio:
 Subir o servidor ServeRest localhost;
 Mapear os principais cenários da funcionalidade Usuários;
 Considere também, pelo menos 2 cenários negativos;
